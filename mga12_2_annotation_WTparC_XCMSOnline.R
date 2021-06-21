@@ -1,3 +1,5 @@
+#This script is from my phd thesis
+
 library(readxl)
 
 #### Set directory
